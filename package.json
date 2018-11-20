@@ -1,0 +1,28 @@
+{
+  "name": "videa",
+  "version": "0.0.1",
+  "description": "Share your video ideas with the world!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akkowicz/videa.git"
+  },
+  "keywords": [
+    "video",
+    "ideas",
+    "js"
+  ],
+  "author": "Mateusz Przybyłowicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akkowicz/videa/issues"
+  },
+  "homepage": "https://github.com/Akkowicz/videa#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
