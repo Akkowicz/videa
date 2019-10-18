@@ -31,7 +31,7 @@
     "express-handlebars": "^3.0.0",
     "express-session": "^1.15.6",
     "method-override": "^3.0.0",
-    "mongoose": "^5.3.14",
+    "mongoose": "^5.4.10",
     "snyk": "^1.200.1"
   },
   "devDependencies": {
